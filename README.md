@@ -1,5 +1,5 @@
-# GCP
-Collection of notes for GCP. Specifically for the google cloud associate exam
+# GCP Architect Notes
+Collection of notes for GCP. 
 
 **What are the main differences between Compute Engine, Kubernetes Engine, App Engine and Cloud Functions?**
 
